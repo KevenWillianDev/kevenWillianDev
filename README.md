@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá Mundo, Me chamo Keven Willian</h1>     
 
-<h3 align="center">💻 Developer Fullstack — Frontend & Backend</h3>  
+<h3 align="center">💻 Developer Fullstack + Mobile Developer — Frontend & Backend</h3>  
 
 <br>
 

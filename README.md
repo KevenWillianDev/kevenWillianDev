@@ -37,8 +37,8 @@ Trabalho tanto no **frontend** quanto no **backend**, sempre buscando aplicar **
 ### 🌟 Tecnologias em destaque:
 - **Frontend:** React, Next.js, Tailwind, Flutter.  
 - **Backend:** Node.js (NestJS, Express), Prisma, APIs REST.  
-- **Banco de Dados:** PostgreSQL, Firebird, MySQL, Firebase.  
-- **Outros:** Docker, Git/GitHub, Postman, CI/CD (Jenkins).  
+- **Banco de Dados:** PostgreSQL, Firebird, MySQL, Firebase, Supabase.  
+- **Outros:** Docker, Git/GitHub/Gitea, Postman, CI/CD (Jenkins).  
 
 ---
 

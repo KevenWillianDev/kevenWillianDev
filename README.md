@@ -19,7 +19,7 @@
 Sou apaixonado por tecnologia e desenvolvimento de software.  
 Trabalho tanto no **frontend** quanto no **backend**, sempre buscando aplicar **boas práticas**, **arquitetura limpa** e **código desacoplado**.  
 
-- 🔭 Atualmente focado em **NestJS, Prisma e PostgreSQL** para backend.  
+- 🔭 Atualmente focado em **NestJS, NextJS, Prisma e PostgreSQL** para backend.  
 - 📱 Experiência em **Flutter (Dart)** para apps mobile.  
 - 🌍 Crio também **extensões para navegador** e **integrações com APIs externas**.  
 - 📚 Sempre estudando novas formas de melhorar performance, escalabilidade e qualidade de código.  
